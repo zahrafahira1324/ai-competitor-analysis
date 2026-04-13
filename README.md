@@ -37,7 +37,7 @@ Potensi bias model AI
 API usage cost
 📄 Documentation
 
-See full documentation in report.pdf
+See full documentation in AI-Workflow_Analisis_Kompetitor.pdf
 
 ## 🧠 Workflow Architecture
 
